@@ -30,14 +30,10 @@ Instrucciones de uso:
    - Python 3.8 o superior instalado en el sistema
    - Biblioteca estándar de Python (no se requieren librerías externas)
 
-2. Clonar el repositorio 
-   git clone https://github.com/camilocapelli/TrabajoIntegrador.git
-   cd repositorio-fixture-arbol
-
-3. Ejecutar el programa:
+2. Ejecutar el programa:
    TP Integrador Programación I - Capelli-Montero.py
 
-4. Uso del sistema:
+3. Uso del sistema:
    - El usuario debe ingresar los nombres de los equipos (cantidad par y mayor o igual a 2).
    - El programa organizará los encuentros en rondas, simulando cada partido de forma aleatoria.
    - Al finalizar, mostrará al equipo campeón y el recorrido completo del fixture.
@@ -47,9 +43,13 @@ Estructura del proyecto:
 fixture_arbol_binario/
 ├── TP Integrador Programación I - Capelli-Montero.py                -> Código principal con la ejecución del simulador
 ├── TP Integrador Programación I - Capelli-Montero.pdf                -> TP Integrador
-├── README.txt             -> Este archivo
-├── presentación_canva.pdf -> Presentación usada en el video
-└── video_presentación.mp4 -> Video explicativo
+└── README.txt             -> Este archivo
+
+Enlace GITHUB
+https://github.com/camilocapelli/TrabajoIntegrador.git
+
+Video YOUTUBE
+https://www.youtube.com/watch?v=RwT11zFu4E4
 
 Reflexión del equipo:
 ---------------------
